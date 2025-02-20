@@ -20,6 +20,10 @@ Produk sendiri adalah merupakan aplikasi Chatbot terkhusus untuk mental health, 
 
 ![Alt text](image.png)
 
+# Entity Relationship Diagram
+
+  
+
 # Wireframe
 
 ![Alt text](image(1).png)
