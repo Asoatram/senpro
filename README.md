@@ -16,3 +16,6 @@ Produk sendiri adalah merupakan aplikasi Chatbot terkhusus untuk mental health, 
 | User Interaction       | User dapat berinteraksi dengan chatbot, via antarmuka web yang memiliki text input, chatbot tersebut kemudian dapat merespons sesuai dengan konteks yang diberikan pengguna dan memberi nasihat ataupun support yang sesuai dengan diinginkan. |
 | Risk Assessment        | Chatbot dapat melakukan analisis terhadap chat kepada pengguna kemudian men eskalasi apabila ada yang berbahaya terhadap pengguna.                                                                    |
 | Professional Support   | Sistem dapat mengeksekusi dan memberikan bantuan dengan support yang manusia dan lebih ahli ketika terdapat sebuah pengguna yang dianggap memiliki resiko.                                              |
+# Use Case Diagram
+
+![Alt text](image.png)
