@@ -22,6 +22,7 @@ Produk sendiri adalah merupakan aplikasi Chatbot terkhusus untuk mental health, 
 
 # Entity Relationship Diagram
 
+![Alt text](erd.png)
   
 
 # Wireframe
@@ -29,3 +30,14 @@ Produk sendiri adalah merupakan aplikasi Chatbot terkhusus untuk mental health, 
 ![Alt text](image(1).png)
 
 ![Alt text](image(2).png)
+
+# Gantt Chart
+
+| Kegiatan            | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+|---------------------|----|----|----|----|----|----|----|----|----|----|----|----|
+| Feature Analysis    | ██ |    |    |    |    |    |    |    |    |    |    |    |
+| Wireframing & UI Design |    | ██ | ██ |    |    |    |    |    |    |    |    |    |
+| Backend Development |    |    |    | ██ | ██ | ██ | ██ | ██   | ██ |    |    |    |
+| Frontend Development|    |    |    |    |    |  | ██ | ██ | ██ |    |    |    |
+| Debugging           |    |    |    |    |    |    |    |    | ██   | ██ | ██   | ██ |
+
