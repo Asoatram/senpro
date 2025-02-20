@@ -19,3 +19,9 @@ Produk sendiri adalah merupakan aplikasi Chatbot terkhusus untuk mental health, 
 # Use Case Diagram
 
 ![Alt text](image.png)
+
+# Wireframe
+
+![Alt text](image(1).png)
+
+![Alt text](image(2).png)
